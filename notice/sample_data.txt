@@ -1,0 +1,10 @@
+db.brewery.insertOne({
+  "_id": 1,
+  name: "플레이그라운드 브루어리",
+  location: {
+    type: "Point",
+    coordinates: [126.755, 37.679]
+  },
+  image: "https://www.playgroundbrewery.com/wp-content/uploads/2018/09/2131.jpg",
+  homepage: "https://www.playgroundbrewery.com/"
+});

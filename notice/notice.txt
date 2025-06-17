@@ -1,0 +1,13 @@
+Google Mpas API 키의 경우,
+사용하기 위해서는 Java 코드에서 @Value("${google.map.api-key}")
+=> application.yml 파일에 다음과 같이 되어있기 때문임.
+google:
+  map:
+    api-key: AIzaSyAbQm_frQV39JcXAcavPRobQcBJ4V9_msw
+
+
+데이터의 경우 일단, 4개 정도만 넣어놓고 해보려고 하는 중.
+mongoimport --db kcraftbeer --collection brewery --file ./brewery.json --jsonArray
+
+
+도메인 → 리포지토리 → 서비스 → 컨트롤러 순으로 레이어를 구성

@@ -1,0 +1,42 @@
+[
+  {
+    "_id": 1,
+    "name": "플레이그라운드 브루어리",
+    "location": {
+      "type": "Point",
+      "coordinates": [126.755, 37.679]
+    },
+    "image": "https://www.playgroundbrewery.com/wp-content/uploads/2018/09/2131.jpg",
+    "homepage": "https://www.playgroundbrewery.com/"
+  },
+  {
+    "_id": 2,
+    "name": "감자 아일랜드",
+    "location": {
+      "type": "Point",
+      "coordinates": [127.743, 37.908]
+    },
+    "image": "https://tradesupport.gwd.go.kr/upload/thumb/2022/0407/2022040716493425046335362.png",
+    "homepage": "https://gamjaisland.imweb.me/"
+  },
+  {
+    "_id": 3,
+    "name": "더 랜치 브루잉",
+    "location": {
+      "type": "Point",
+      "coordinates": [127.359, 36.313]
+    },
+    "image": "https://beerlikeit.com/upimg/brew/BRW0001186.jpg",
+    "homepage": "https://ranchbrewing.com/landing/"
+  },
+  {
+    "_id": 4,
+    "name": "대천 브루어리",
+    "location": {
+      "type": "Point",
+      "coordinates": [126.529, 36.317]
+    },
+    "image": "https://cdn.imweb.me/upload/S202112108f41c0aafe559/3d436f7972005.png",
+    "homepage": "https://daecheonbrewery.com/"
+  }
+]
