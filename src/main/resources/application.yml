@@ -1,0 +1,13 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/kcraftbeer
+  application:
+    name: K_Craft_Beer
+
+google:
+  map:
+    api-key: AIzaSyAbQm_frQV39JcXAcavPRobQcBJ4V9_msw
+
+server:
+  port: 9000
