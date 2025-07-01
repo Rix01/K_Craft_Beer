@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ad4bbdcc.css",
+    "main.js": "/static/js/main.cf2ef332.js",
+    "static/media/k_craftbeer_logo.png": "/static/media/k_craftbeer_logo.fcdaa7214b9605139028.png",
+    "index.html": "/index.html",
+    "main.ad4bbdcc.css.map": "/static/css/main.ad4bbdcc.css.map",
+    "main.cf2ef332.js.map": "/static/js/main.cf2ef332.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad4bbdcc.css",
+    "static/js/main.cf2ef332.js"
+  ]
+}

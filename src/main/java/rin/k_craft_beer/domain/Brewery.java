@@ -13,7 +13,7 @@ import org.springframework.data.mongodb.core.mapping.Document;
 @AllArgsConstructor
 public class Brewery {
     @Id
-    private Integer id; // 숫자 _id
+    private String id; // 숫자 _id
 
     private String name;
     private GeoJsonPoint location;  // // type: "Point", coordinates: [lng, lat]
